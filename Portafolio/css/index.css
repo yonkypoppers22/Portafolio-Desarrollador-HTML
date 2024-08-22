@@ -1,0 +1,101 @@
+body{
+    background-color: #1cb698; 
+    margin: 0;
+    width: 100vw; 
+    height: 100vh;
+
+}
+
+.header {
+    
+    border-radius: 7px;
+    display: flex;
+    width: 90%;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+
+.main{
+    margin: 10px;
+    background-color: goldenrod;
+    justify-content: space-between;
+    width: 90%;
+    
+    
+}
+
+
+.footer{
+    border-radius: 7px;
+    width: 90%;
+    margin: 10px;
+    
+   
+}
+
+
+
+
+
+.border2{
+    border: 2px solid aqua;
+    border-radius: 7px;
+    
+}
+
+
+
+
+.background{
+    
+    background-color: aquamarine;
+    
+}
+
+
+.menuprincipal{
+    width: 40%;
+
+
+}
+
+
+.menu1{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+
+.item{
+    list-style: none;
+}
+
+.proyectos{
+    border-radius: 5px;
+    border: 2px solid lightblue;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: 10px;
+}
+
+.cuadro {
+    border: 1px solid blue;
+    height: 100px;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.llamar{
+    justify-content: space-evenly;
+    display: flex;
+
+}
+
+
+
